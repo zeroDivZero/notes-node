@@ -2,7 +2,7 @@
 
 [nvm (GitHub)](https://github.com/nvm-sh/nvm)
 
-Bash script, not binary executable, so use command -v nvm to verify; won’t show up with which nvm.
+Bash script, not binary executable, so use `command -v nvm` to verify; won’t show up with `which nvm`.
 
 ## Install
 
