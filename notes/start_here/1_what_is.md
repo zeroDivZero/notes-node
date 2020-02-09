@@ -6,5 +6,5 @@ V8 JIT compiles JS (instead of AOT, ahead-of-time).
 
 Event-driven, non-blocking I/O model. Lightweight, efficient.
 
-![node architecture](../assets/node_architecture.png)
+![node architecture](../../assets/node_architecture.png)
 **libuv** handles async events.
