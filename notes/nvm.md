@@ -7,7 +7,7 @@ Bash script, not binary executable, so use `command -v nvm` to verify; won’t s
 ## Install
 
 ```sh
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | zsh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | zsh
 ```
 
 Check GitHub repo for latest version. Replace `zsh` with `bash` if using bash.
